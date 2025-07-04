@@ -224,6 +224,25 @@
                 "pip": []
             },
             "build_time": "2025-07-03T14:59:14.719812"
+        },
+        "ServerStatusMonitor": {
+            "path": "/ServerStatusMonitor-1.0.0.zip",
+            "meta": {
+                "name": "ServerStatusMonitor",
+                "version": "1.0.0",
+                "description": "全平台系统信息查询模块",
+                "author": "wsu2059q",
+                "license": "MIT",
+                "homepage": "https://github.com/wsu2059q/ErisPulse-ServerStatusMonitor"
+            },
+            "dependencies": {
+                "requires": [
+                    "SystemStatus"
+                ],
+                "optional": [],
+                "pip": []
+            },
+            "build_time": "2025-07-04T22:06:40.645543"
         }
     }
 }
